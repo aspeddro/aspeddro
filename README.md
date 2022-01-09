@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Reach me at:
+
+- E-mail: [pdesacastro@gmail.com](mailto:pdesacastro@gmail.com)
+- Discord: `aspeddro#9541`
+- Matrix: [@aspeddro:matrix.org](matrix:u/aspeddro:matrix.org)
+
 <table align="center">
   <tr>
     <td>
