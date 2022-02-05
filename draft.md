@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Reach me at:
+#### Neovim stuff
 
-- E-mail: [pdesacastro@gmail.com](mailto:pdesacastro@gmail.com)
-- Discord: `aspeddro#9541`
-- Matrix: [@aspeddro:matrix.org](matrix:u/aspeddro:matrix.org)
+- [cmp-pandoc.nvim](https://github.com/aspeddro/cmp-pandoc.nvim): Pandoc source for nvim-cmp
+- [gitui.nvim](https://github.com/aspeddro/gitui.nvim): Gitui in your Neovim
+- [pandoc.nvim](https://github.com/aspeddro/pandoc.nvim): A Neovim plugin for pandoc `WIP`
+- [tex.nvim](https://github.com/aspeddro/tex.nvim): A Neovim plugin for TeX written in Lua `WIP`
+- [slides.nvim](https://github.com/aspeddro/slides.nvim): Slides presentation in your Neovim
 
 <table align="center">
   <tr>
