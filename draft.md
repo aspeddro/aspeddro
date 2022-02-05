@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-#### Neovim stuff
-
-- [cmp-pandoc.nvim](https://github.com/aspeddro/cmp-pandoc.nvim): Pandoc source for nvim-cmp
-- [gitui.nvim](https://github.com/aspeddro/gitui.nvim): Gitui in your Neovim
-- [pandoc.nvim](https://github.com/aspeddro/pandoc.nvim): A Neovim plugin for pandoc `WIP`
-- [tex.nvim](https://github.com/aspeddro/tex.nvim): A Neovim plugin for TeX written in Lua `WIP`
-- [slides.nvim](https://github.com/aspeddro/slides.nvim): Slides presentation in your Neovim
-
 <table align="center">
   <tr>
     <td>
@@ -18,3 +10,14 @@
     </td>
   </tr>
  </table>
+
+<details>
+  <summary><b>Neovim stuff</b></summary>
+  
+- [cmp-pandoc.nvim](https://github.com/aspeddro/cmp-pandoc.nvim): Pandoc source for nvim-cmp
+- [gitui.nvim](https://github.com/aspeddro/gitui.nvim): Gitui in your Neovim
+- [pandoc.nvim](https://github.com/aspeddro/pandoc.nvim): [WIP] A Neovim plugin for pandoc
+- [tex.nvim](https://github.com/aspeddro/tex.nvim): [WIP] A Neovim plugin for TeX written in Lua
+- [slides.nvim](https://github.com/aspeddro/slides.nvim): Slides presentation in your Neovim
+  
+</details>
